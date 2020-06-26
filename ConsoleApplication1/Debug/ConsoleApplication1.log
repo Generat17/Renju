@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+  renju.cpp
+C:\Users\aliev\Desktop\рендзю\ConsoleApplication1\renju.cpp(204,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\aliev\Desktop\рендзю\ConsoleApplication1\renju.cpp(205,9): warning C4101: y: неиспользованная локальная переменная
+C:\Users\aliev\Desktop\рендзю\ConsoleApplication1\renju.cpp(205,6): warning C4101: x: неиспользованная локальная переменная
+C:\Users\aliev\Desktop\рендзю\ConsoleApplication1\renju.cpp(241,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\aliev\Desktop\рендзю\ConsoleApplication1\renju.cpp(242,9): warning C4101: y: неиспользованная локальная переменная
+C:\Users\aliev\Desktop\рендзю\ConsoleApplication1\renju.cpp(242,6): warning C4101: x: неиспользованная локальная переменная
+  Создание кода...
+  ConsoleApplication1.vcxproj -> C:\Users\aliev\Desktop\рендзю\Debug\ConsoleApplication1.exe
